@@ -38,4 +38,4 @@ For the “controlled guide”, instead, I have kept the commands of the “manu
 ## Flowchart
 To explain in more detail how the code works, I report below two flowcharts (one for each node), which show the flow of reasoning:
 
-![alt text](https://github.com/MartinaGermani/Assignment3/blob/main/Flowchart_Assignment3.jpg?raw=true)
+![alt text](https://github.com/MartinaGermani/Assignment_3/blob/main/Flowchart_Assignment3.jpg?raw=true)
