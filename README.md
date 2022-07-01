@@ -36,6 +36,6 @@ For the “controlled guide”, instead, I have kept the commands of the “manu
 *	“r”, but the distance from the obstancles on the right of the robot is less than the threshold, it doesn’t turn right, but left in order to avoid collision. 
 
 ## Flowchart
-To explain in more detail how the code works, I report below two flowcharts (one for each node), which show the flow of reasoning:
+To explain in more detail how the code works, I report below a flowchart, which shows the flow of reasoning:
 
 ![alt text](https://github.com/MartinaGermani/Assignment_3/blob/main/Flowchart.jpg?raw=true)
