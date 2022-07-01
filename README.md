@@ -34,3 +34,5 @@ For the “controlled guide”, instead, I have kept the commands of the “manu
 *	“+”, but the distance from the obstacles in front of the robot is less than a threshold (I have choose 1.5), then the robot doesn’t proceed,
 *	“l”, but the distance from the obstancles on the left of the robot is less than the threshold, it doesn’t turn left, but right in order to avoid collision,
 *	“r”, but the distance from the obstancles on the right of the robot is less than the threshold, it doesn’t turn right, but left in order to avoid collision. 
+
+## Flowchart
