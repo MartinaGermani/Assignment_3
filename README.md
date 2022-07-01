@@ -8,10 +8,10 @@ I have controlled 3 different behaviours of the robot, depending on user’s inp
 
 ## How to run the code?
 First of all you need the packages: 
-*	final_assignment
-*	slam_gmapping
-then, in order to run the code, you have to run:
-*	roslaunch final_assignment simulation_gmapping.launch
-*	roslaunch final_assignment move_base.launch
-and finally:
+*	final_assignment,
+*	slam_gmapping.
+Then, in order to run the code, you have to run:
+*	roslaunch final_assignment simulation_gmapping.launch,
+*	roslaunch final_assignment move_base.launch.
+And finally:
 *	rosrun final_assignment goal_node
